@@ -1,1 +1,1 @@
-# s-p-project
+# S&P index project
